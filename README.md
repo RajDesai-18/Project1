@@ -1,1 +1,1 @@
-# Medinate.com
+Medinate.com
